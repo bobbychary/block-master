@@ -1,2 +1,8 @@
 # BLOCK-MASTER
-it is blocks collecting game
+It is blocks collecting game
+THE CONTROLS ARE:
+A-LEFT
+D-RIGHT
+  (OR)
+YOU CAN USE ARROW KEYS.
+THANK YOU FOR DOWNLOADING....
